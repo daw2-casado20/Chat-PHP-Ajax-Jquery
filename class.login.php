@@ -29,5 +29,5 @@ class Login extends DataBoundObject {
               );
             return $statment;
         }
-}
+})
 ?>
